@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10-alpine
 MAINTAINER bowman(fancycode@gmail.com)
-RUN npm i -g truffle
+RUN npm i -g truffle@4.1.15
 
