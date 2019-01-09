@@ -3,7 +3,7 @@
  [![](https://img.shields.io/docker/stars/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
  [![](https://img.shields.io/docker/pulls/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
 
- [![](https://img.shields.io/docker/build/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
+ [![](https://img.shields.io/docker/automated/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
 
 grab the image from bowmanhan/truffle-ci:latest
 
