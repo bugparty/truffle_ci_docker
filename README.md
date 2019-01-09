@@ -12,5 +12,7 @@ this is a truffle docker image base on node:10, intent to use in gitlab ci runne
 currently bundle packags:
 
 * git
+* python
+* gcc make (for node-scrypt)
 * truffle@4.1.15 (good to work with openzepplin)
 
