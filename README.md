@@ -1,9 +1,9 @@
 # truffle_ci_docker
 
  [![](https://img.shields.io/docker/stars/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
- [![](https://img.shields.io/docker/pulls/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
-
- [![](https://img.shields.io/docker/automated/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
+ [![](https://img.shields.io/docker/pulls/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub') [![](https://img.shields.io/docker/automated/bowmanhan/truffle-ci.svg)](https://hub.docker.com/r/bowmanhan/truffle-ci 'DockerHub')
+ 
+ [![](https://img.shields.io/github/stars/bugparty/truffle_ci_docker.svg?label=Stars&style=social)](https://github.com/bugparty/truffle_ci_docker/)
 
 grab the image from bowmanhan/truffle-ci:latest
 
